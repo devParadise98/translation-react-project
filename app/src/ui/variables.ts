@@ -1,0 +1,27 @@
+export const FONTS = {
+  LATO: 'Lato',
+};
+
+export const COLORS = {
+  GRAY: '#f8f8f8',
+  DARK_GRAY: '#4B4D53',
+  BLUE: '#3674F6',
+  SKY_BLUE: '#5ACAFA',
+  WHITE: '#FFFFFF',
+  SHADOW: '#1B1B1D',
+  LEAD: '#707070',
+  IRON: '#B1B1B1',
+  YELLOW: '#DEB844',
+  MAGENTA: '#E90B57',
+  INDIGO: '#191F49',
+  DARK_PURPLE: '#6844F9',
+  HAZELNUT: '#B7A508',
+  TIGER: '#F06604',
+  PARAKEET: '#1CCF78',
+  CORAL: '#FF7A7A',
+  AZURE: '#0757CE',
+  LIGHT_GRAY: '#7C7F88',
+  CHERRY: '#C63131',
+  PEBBLE: '#333333',
+  SAPPHIRE: '#0050B3'
+};
