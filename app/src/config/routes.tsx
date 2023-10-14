@@ -1,5 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Home from '../view/Home';
+import Register from '../view/Register';
 
 
 const routes = createBrowserRouter([
@@ -9,7 +10,7 @@ const routes = createBrowserRouter([
   },
   {
     path: "register",
-    element: <div>Hola mundo register</div>,
+    element: <Register />,
   },
 ]);
 

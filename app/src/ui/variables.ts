@@ -25,3 +25,9 @@ export const COLORS = {
   PEBBLE: '#333333',
   SAPPHIRE: '#0050B3'
 };
+
+export const RESPONSIVE = {
+  MOBILE: '480px',
+  TABLE: '768px',
+  DESKTOP: '1025px'
+};
